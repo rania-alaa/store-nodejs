@@ -1,4 +1,3 @@
-# store-nodejs
 ## Simple JS/Node Developer Challenge
 
 ###the available commands
@@ -22,3 +21,4 @@
 `$ ./store remove mykey`
 
 `$ ./store clear` 
+
